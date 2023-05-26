@@ -1,0 +1,29 @@
+{"@timestamp":"2023-05-26T13:38:56Z","level":"info","message":"User logged in!","userId":12}
+{"@timestamp":"2023-05-26T13:39:30Z","level":"info","message":"User logged in!","userId":12}
+{"@timestamp":"2023-05-26T13:40:27Z","level":"info","message":"User logged in!","userId":12}
+{"@timestamp":"2023-05-26T13:43:51Z","level":"info","message":"User logged in!","userId":12}
+{"@timestamp":"2023-05-26T13:45:25Z","level":"info","message":"User logged in!","userId":12}
+{"@timestamp":"2023-05-26T13:45:48Z","level":"info","message":"User logged in!","userId":12}
+{"@timestamp":"2023-05-26T17:12:38Z","level":"info","message":"User logged in!","userId":12}
+{"@timestamp":"2023-05-26T17:18:34Z","level":"info","message":"User logged in!","userId":12}
+{"@timestamp":"2023-05-26T17:20:02Z","level":"info","message":"User logged in!","userId":12}
+{"@timestamp":"2023-05-26T17:34:03Z","level":"info","message":"User logged in!","userId":12}
+{"@timestamp":"2023-05-26T17:34:15Z","level":"info","message":"User logged in!","userId":12}
+{"@timestamp":"2023-05-26T17:34:20Z","level":"info","message":"User logged in!","userId":12}
+{"@timestamp":"2023-05-26T17:34:21Z","level":"info","message":"User logged in!","userId":12}
+{"@timestamp":"2023-05-26T20:41:23+03:00","level":"info","message":"Starting Demo Program Server...","userId":12}
+{"@timestamp":"2023-05-26T20:41:23+03:00","level":"info","message":"Server starting on port 8080"}
+{"@timestamp":"2023-05-26T20:43:16+03:00","hostname":"Tubitaks-MacBook-Pro.local","level":"info","message":"Starting Demo Program Server..."}
+{"@timestamp":"2023-05-26T20:43:16+03:00","level":"info","message":"Server starting on port 8080"}
+{"@timestamp":"2023-05-26T17:43:43Z","level":"info","message":"User logged in!","userId":12}
+{"@timestamp":"2023-05-26T17:44:15Z","level":"info","message":"User logged in!","userId":12}
+{"@timestamp":"2023-05-26T20:44:40+03:00","hostname":"Tubitaks-MacBook-Pro.local","level":"info","message":"Starting Demo Program Server..."}
+{"@timestamp":"2023-05-26T20:44:40+03:00","level":"info","message":"Server starting on port 8080"}
+{"@timestamp":"2023-05-26T20:45:14+03:00","level":"debug","message":"Logger says hello"}
+{"@timestamp":"2023-05-26T17:46:46Z","level":"info","message":"User logged in!","userId":12}
+{"@timestamp":"2023-05-26T17:47:41Z","hostname":"bc67eea47b81","level":"info","message":"Starting Demo Program Server..."}
+{"@timestamp":"2023-05-26T17:47:41Z","level":"info","message":"Server starting on port 8080"}
+{"@timestamp":"2023-05-26T17:48:16Z","level":"debug","message":"Logger says hello"}
+{"@timestamp":"2023-05-26T17:50:32Z","computername":"c462024cba17","level":"info","message":"Starting Demo Program Server..."}
+{"@timestamp":"2023-05-26T17:50:32Z","level":"info","message":"Server starting on port 8080"}
+{"@timestamp":"2023-05-26T17:51:54Z","level":"debug","message":"Logger says olleh"}
